@@ -1,1 +1,2 @@
-Das ist ein master wÃ¼rdiger Text
+Das ist ein master würdiger Text
+test.rb edited neu
